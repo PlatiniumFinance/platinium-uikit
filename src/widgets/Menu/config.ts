@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/platiniumdefi",
+        href: "https://t.me/joinchat/_2CDQTJo9rxjMDA0",
       },
       // {
       //   label: "Bahasa Indonesia",
